@@ -1,4 +1,4 @@
-# Instructions for setting up Docker Toolkit MCP gateway server and containerizing .NET applications for use as docker MCP servers
+# Setup Docker MCP gateway server and containerize .NET app for use as docker MCP server
 
 ### Clone sample repo  
 ```
