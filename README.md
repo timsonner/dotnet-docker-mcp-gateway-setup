@@ -1,4 +1,4 @@
-# Instructions for setting up Docker Toolkit MCP gateway server, containerizing .NET applications for use as docker MCP server
+# Instructions for setting up Docker Toolkit MCP gateway server and containerizing .NET applications for use as docker MCP servers
 
 ### Clone sample repo  
 ```
@@ -13,7 +13,7 @@ cd dotnet-mcp-skeleton-project-vscode
 docker init
 ```
 
-For demo, accept defaults for port and project solution
+For demo, accept defaults for port and project solution, use 9.0 for .NET version
 
 ### Build container  
 ```
